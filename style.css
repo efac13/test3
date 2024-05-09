@@ -8,5 +8,6 @@ header{
         background-color: #180c35;
         color: white;
         display: flex;
+        justify-content: space-around;
     }
 }
