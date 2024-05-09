@@ -4,4 +4,9 @@ header{
     .cabecalho-imagem{
         width: 20%;
     }
+    .cabecalho{
+        background-color: #180c35;
+        color: white;
+        display: flex;
+    }
 }
