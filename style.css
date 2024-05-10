@@ -19,4 +19,22 @@ header{
         padding: 24px 0;
         font-size: 24px;
     }
+    .escola-imagem{
+        width: 25%;
+    }
+    .escola{
+        background-image: linear-gradient(#383d58,#00c0eb);
+        color: white;
+        display: flex;
+    }
+    .escola-conteudo{
+        width: 35%;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        padding: 24px 0;
+    }
+    .escola-titulo{
+        padding: 24px 0;
+    }
 }
