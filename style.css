@@ -16,6 +16,7 @@ body {
 
 .cabecalho-imagem{
     width: 10%;
+    height: auto;
 }
 
 .cabecalho-lista-item{
@@ -26,6 +27,7 @@ body {
 
 .escola-imagem{
     width: 25%;
+    height: auto;
 }
 
 .escola{
